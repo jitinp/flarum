@@ -15,12 +15,6 @@
             "email": "franz@develophp.org"
         }
     ],
-    "co-author": [
-	{
-	    "name": "Jitin Pillai",
-	    "email": "jitinp@nityaalabs.com"
-	}
-    ],
     "support": {
         "issues": "https://github.com/flarum/core/issues",
         "source": "https://github.com/jiitnp/flarum",
@@ -62,5 +56,5 @@
         "preferred-install": "dist"
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": false
 }
