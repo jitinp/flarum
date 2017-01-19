@@ -15,13 +15,19 @@
             "email": "franz@develophp.org"
         }
     ],
+    "co-author": [
+	{
+	    "name": "Jitin Pillai",
+	    "email": "jitinp@nityaalabs.com"
+	}
+    ],
     "support": {
         "issues": "https://github.com/flarum/core/issues",
         "source": "https://github.com/flarum/flarum",
         "docs": "http://flarum.org/docs"
     },
     "require": {
-        "flarum/core": "^0.1.0",
+        "jitinp/core": "^0.1.0",
         "flarum/flarum-ext-akismet": "^0.1.0",
         "flarum/flarum-ext-approval": "^0.1.0",
         "flarum/flarum-ext-auth-facebook": "^0.1.0",
