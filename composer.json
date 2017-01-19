@@ -32,7 +32,7 @@
             "type": "vcs",
             "url": "https://github.com/jitinp/flarum"
         }
-    ]
+    ],
 
     "require": {
         "jitinp/core": "dev-master",
