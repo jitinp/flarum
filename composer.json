@@ -38,17 +38,12 @@
                 "type": "git",
                 "reference": "master"
             },
-            "autoload": {
-                "psr-0" : {
-                    "jiitnp/flarum" : "src"
-                }
-            }
-        }
+       }
     }
 ],
 
     "require": {
-        "jitinp/core": "^0.1.0",
+        "jitinp/core": "dev-master",
         "flarum/flarum-ext-akismet": "^0.1.0",
         "flarum/flarum-ext-approval": "^0.1.0",
         "flarum/flarum-ext-auth-facebook": "^0.1.0",
