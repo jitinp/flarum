@@ -23,7 +23,7 @@
     ],
     "support": {
         "issues": "https://github.com/flarum/core/issues",
-        "source": "https://github.com/flarum/flarum",
+        "source": "https://github.com/jiitnp/flarum",
         "docs": "http://flarum.org/docs"
     },
     "require": {
