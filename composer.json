@@ -1,5 +1,10 @@
 {
     "name": "jitinp/flarum",
+    "autoload": {
+        "psr-0" : {
+            "jitinp\\flarum" : "src"
+        }
+    },
     "description": "Delightfully simple forum software.",
     "type": "project",
     "keywords": ["forum", "discussion"],
